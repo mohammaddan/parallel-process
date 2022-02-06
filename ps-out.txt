@@ -1,0 +1,12 @@
+-------- Parallel Prefix Sum ------------
+number of threads : 1    time : 0.538
+number of threads : 2    time : 0.396
+number of threads : 3    time : 0.31
+number of threads : 4    time : 0.234
+number of threads : 5    time : 0.219
+number of threads : 6    time : 0.201
+number of threads : 7    time : 0.191
+number of threads : 8    time : 0.179
+----------------------
+
+1, 3, 6, 10, 15, 21, 28, 36, 45, 55, ...

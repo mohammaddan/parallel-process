@@ -1,0 +1,10 @@
+-------- Matrix Multiply ------------
+number of threads : 1    time : 11.599
+number of threads : 2    time : 5.946
+number of threads : 3    time : 4.069
+number of threads : 4    time : 3.378
+number of threads : 5    time : 2.81
+number of threads : 6    time : 2.355
+number of threads : 7    time : 2.078
+number of threads : 8    time : 3.125
+----------------------
