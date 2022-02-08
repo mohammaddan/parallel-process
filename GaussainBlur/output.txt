@@ -1,0 +1,9 @@
+ 
+number of threads : 1    time : 12.909
+number of threads : 2    time : 6.376
+number of threads : 3    time : 4.298
+number of threads : 4    time : 3.254
+number of threads : 5    time : 2.618
+number of threads : 6    time : 2.183
+number of threads : 7    time : 1.917
+number of threads : 8    time : 1.772
